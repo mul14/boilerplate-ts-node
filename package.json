@@ -1,7 +1,8 @@
 {
-  "name": "@mul14/tsssss",
+  "name": "@mul14/boilerplate-ts-node",
   "version": "1.0.0",
-  "description": "",
+  "description": "My TypeScript + Node + Jest Boilerplate",
+  "private": true,
   "main": "dist/main.js",
   "scripts": {
     "build": "tsc",
@@ -10,7 +11,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@babel/cli": "7.1.2",
     "@babel/core": "7.1.2",
